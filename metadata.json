@@ -1,0 +1,6 @@
+{
+  "name": "徐正宏个人网站",
+  "description": "一级演奏家、二胡艺术家徐正宏的官方个人艺术网站，展示艺术生涯、二胡构造、互动音乐体验及演出预约。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
