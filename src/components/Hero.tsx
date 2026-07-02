@@ -144,7 +144,7 @@ export default function Hero({ onScrollToNext }: HeroProps) {
             {/* Inner Graphic Area - Displaying Real Portrait of Xu Zhenhong */}
             <div className="relative w-full h-full rounded-full overflow-hidden border-2 border-satin-gold/60 shadow-2xl group-hover:scale-[1.02] transition-transform duration-500">
               <img
-                src="https://photos.1804078.xyz/42hu/xzh.png"
+                src="https://photos.1804078.xyz/42hu/xzh.webp"
                 alt="二胡演奏家 徐正宏"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover object-center select-none"
